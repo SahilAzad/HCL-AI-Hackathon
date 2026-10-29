@@ -205,6 +205,4 @@ Results are written to `reports/evaluation_report.md` and a JSON details file. E
 - The synthetic grading dataset is not a substitute for the university's full relative-grade determination procedure.
 - This prototype uses a student ID header for the hackathon contract; it is not an enterprise authentication system and must not be exposed publicly without proper authentication and deployment security.
 
-## AI use and team contribution
 
-See `AI_USAGE_DISCLOSURE.md` and `TEAM_CONTRIBUTIONS.md`. They are editable templates; fill them honestly with actual tools, model versions, team work and declarations before submission.
